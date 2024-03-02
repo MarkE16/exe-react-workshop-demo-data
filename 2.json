@@ -1,6 +1,6 @@
 {
-  title: "Protein Shakes",
-  price: 12.99,
-  quantity: 9,
-  id: 2
+  "title": "Protein Shakes",
+  "price": 12.99,
+  "quantity": 9,
+  "id": 2
 }

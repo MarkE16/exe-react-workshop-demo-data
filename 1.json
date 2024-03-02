@@ -1,6 +1,6 @@
 {
-  title: "Water Cartons",
-  price: 9.99,
-  quantity: 5,
-  id: 1
+  "title": "Water Cartons",
+  "price": 9.99,
+  "quantity": 5,
+  "id": 1
 }

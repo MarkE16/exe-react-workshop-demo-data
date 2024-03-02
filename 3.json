@@ -1,6 +1,6 @@
 {
-  title: "Laptop",
-  price: 9999.99,
-  quantity: 0,
-  id: 3
+  "title": "Laptop",
+  "price": 9999.99,
+  "quantity": 0,
+  "id": 3
 }
